@@ -11,7 +11,3 @@ const MainRouter = () => {
 }
 
 export default MainRouter
-
-const Main = () =>{
-    return <Navigate to='/dashboard/dashboard/' />
-}
